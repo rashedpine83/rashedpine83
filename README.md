@@ -2,9 +2,15 @@
   <img src="./banner image.png" alt="Banner" width="100%" />
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Nur+Hossain+Rashed;MERN+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+</p>
+
 # Hi 👋 I'm Nur Hossain Rashed
 
 ### MERN Stack Developer
+
 
 
 ## 👨‍💻 About Me
